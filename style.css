@@ -1,0 +1,95 @@
+.headr{
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.btnnav{
+    background-color: #424242;
+    color: white;
+    border: 1px solid rgb(78, 78, 78);
+    padding: 5px;
+}
+
+.btnnavl{
+    background-color: #424242;
+    color: white;
+    border: 1px solid rgb(78, 78, 78);
+    border-right:none;
+    padding: 5px;
+}
+
+.btnnavr{
+    background-color: #424242;
+    color: white;
+    border: 1px solid rgb(78, 78, 78);
+    border-left: none;
+    padding: 5px;
+}
+
+.btnnav:hover{
+    background-color: #333333;
+}
+
+.btnnavl:hover{
+    background-color: #333333;
+}
+
+.btnnavr:hover{
+    background-color: #333333;
+}
+
+.btnblue{
+    background-color: rgb(33, 156, 212);
+    color: white;
+    border: 1px solid rgb(17, 97, 134);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.btnblue:hover{
+    background-color: rgb(19, 76, 102);;
+}
+
+h1{
+    font-weight: bold;
+}
+
+h2{
+    font-size: 6rem;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+h5{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+span{
+    font-weight: bold;
+}
+
+.info{
+    background-color: #f2f2f2;
+    border: 1px solid #e6e6e6;
+}
+
+.btn-primary{
+    background-color: rgb(33, 156, 212);
+    border: rgb(33, 156, 212);
+}
+
+.btn-primary:hover{
+    background-color: rgb(19, 76, 102);
+}
+.btn-primary:focus{
+    background-color: rgb(19, 76, 102);
+}
+
+.number{
+    width: 35%;
+}
